@@ -36,7 +36,7 @@ This project was built to:
 ### Tools 
 * VS Code
 
-##8. How the Game Works (Flow)
+## 8. How the Game Works (Flow)
 
 * User starts the game by betting the amount 
 * The program generates random slot symbols
